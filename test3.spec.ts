@@ -1,0 +1,1 @@
+console.assert(true, "This should not fail");
